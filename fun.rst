@@ -22,6 +22,7 @@ Example
   - !profile 496569904527441921
 
 
+
 **hug**
 =================
 Hugs user.
@@ -40,6 +41,7 @@ Example
   - !hug Naneynonn
   - !hug @Naneynonn#0101
   - !hug 496569904527441921
+
 
 
 **highfive**
