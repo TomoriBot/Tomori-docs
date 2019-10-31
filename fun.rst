@@ -1,4 +1,4 @@
-**me**
+me
 =================
 Shows user's profile.
 
@@ -23,7 +23,7 @@ Example
 
 
 
-**hug**
+hug
 =================
 Hugs user.
 
@@ -44,7 +44,7 @@ Example
 
 
 
-**highfive**
+highfive
 =================
 Highfives user.
 
