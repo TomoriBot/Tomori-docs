@@ -53,7 +53,7 @@ Example
 Highfives user.
 
 Arguments
-.. user: Optional[Union[:class:`Mention`, :class:`Name`, :class:`ID`]]
+  user: Optional[Union[:class:`Mention`, :class:`Name`, :class:`ID`]]
 
 Returns
 ---------
