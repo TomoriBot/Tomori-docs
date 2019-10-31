@@ -1,24 +1,31 @@
+Welcome to Tomori Go's documentation!
+=====================================
+
+Fun
+==================
+
 **me**
-.. Shows user's profile.
+~~~~~~~~~~~~~
+Shows user's profile.
 
-.. Arguments
-.. -----------
-.. user: Union[:class:`Mention`, :class:`Name`, :class:`ID`]
+Arguments
+-----------
+user: Union[:class:`Mention`, :class:`Name`, :class:`ID`]
 
-.. Returns
-.. ---------
-.. An image with user's profile.
+Returns
+---------
+An image with user's profile.
 
-.. Aliases
-.. ---------
-.. - profile
+Aliases
+---------
+- profile
 
-.. Example
-.. ---------
-.. - !me
-.. - !me Naneynonn
-.. - !profile @Naneynonn#0101
-.. - !profile 496569904527441921
+Example
+---------
+- !me
+- !me Naneynonn
+- !profile @Naneynonn#0101
+- !profile 496569904527441921
 
 
 **hug**
@@ -46,8 +53,7 @@ Example
 Highfives user.
 
 Arguments
------------
-user: Optional[Union[:class:`Mention`, :class:`Name`, :class:`ID`]]
+.. user: Optional[Union[:class:`Mention`, :class:`Name`, :class:`ID`]]
 
 Returns
 ---------
