@@ -1,11 +1,8 @@
-Welcome to Tomori Go's documentation!
-=====================================
-
-Fun
-==================
+Category **Fun**!
+=================
 
 **me**
-~~~~~~~~~~~~~
+------------------
 Shows user's profile.
 
 Arguments
@@ -25,7 +22,7 @@ Example
 
 
 **hug**
-~~~~~~~~~~~~~
+------------------
 Hugs user.
 
 Arguments
@@ -42,7 +39,7 @@ Example
 
 
 **highfive**
-~~~~~~~~~~~~~
+------------------
 Highfives user.
 
 Arguments
