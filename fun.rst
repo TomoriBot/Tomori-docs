@@ -9,23 +9,19 @@ Fun
 Shows user's profile.
 
 Arguments
------------
-user: Union[:class:`Mention`, :class:`Name`, :class:`ID`]
+  user: Union[:class:`Mention`, :class:`Name`, :class:`ID`]
 
 Returns
----------
-An image with user's profile.
+  An image with user's profile.
 
 Aliases
----------
-- profile
+  - profile
 
 Example
----------
-- !me
-- !me Naneynonn
-- !profile @Naneynonn#0101
-- !profile 496569904527441921
+  - !me
+  - !me Naneynonn
+  - !profile @Naneynonn#0101
+  - !profile 496569904527441921
 
 
 **hug**
@@ -33,19 +29,16 @@ Example
 Hugs user.
 
 Arguments
------------
-user: Optional[Union[:class:`Mention`, :class:`Name`, :class:`ID`]]
+  user: Optional[Union[:class:`Mention`, :class:`Name`, :class:`ID`]]
 
 Returns
----------
-An embed message with hugs.
+  An embed message with hugs.
 
 Example
----------
-- !hug
-- !hug Naneynonn
-- !hug @Naneynonn#0101
-- !hug 496569904527441921
+  - !hug
+  - !hug Naneynonn
+  - !hug @Naneynonn#0101
+  - !hug 496569904527441921
 
 
 **highfive**
@@ -56,17 +49,14 @@ Arguments
   user: Optional[Union[:class:`Mention`, :class:`Name`, :class:`ID`]]
 
 Returns
----------
-An embed message with highfives.
+  An embed message with highfives.
 
 Aliases
----------
-- five
-- high-five
+  - five
+  - high-five
 
 Example
----------
-- !five
-- !highfive Naneynonn
-- !high-five @Naneynonn#0101
-- !high-five 496569904527441921
+  - !five
+  - !highfive Naneynonn
+  - !high-five @Naneynonn#0101
+  - !high-five 496569904527441921
