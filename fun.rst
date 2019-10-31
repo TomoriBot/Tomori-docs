@@ -1,20 +1,21 @@
-Category **Fun**!
-=================
-
 **me**
-------------------
+=================
 Shows user's profile.
 
 Arguments
+-----------
   user: Union[:class:`Mention`, :class:`Name`, :class:`ID`]
 
 Returns
+-----------
   An image with user's profile.
 
 Aliases
+-----------
   - profile
 
 Example
+-----------
   - !me
   - !me Naneynonn
   - !profile @Naneynonn#0101
@@ -22,16 +23,19 @@ Example
 
 
 **hug**
-------------------
+=================
 Hugs user.
 
 Arguments
+-----------
   user: Optional[Union[:class:`Mention`, :class:`Name`, :class:`ID`]]
 
 Returns
+-----------
   An embed message with hugs.
 
 Example
+-----------
   - !hug
   - !hug Naneynonn
   - !hug @Naneynonn#0101
@@ -39,20 +43,24 @@ Example
 
 
 **highfive**
-------------------
+=================
 Highfives user.
 
 Arguments
+-----------
   user: Optional[Union[:class:`Mention`, :class:`Name`, :class:`ID`]]
 
 Returns
+-----------
   An embed message with highfives.
 
 Aliases
+-----------
   - five
   - high-five
 
 Example
+-----------
   - !five
   - !highfive Naneynonn
   - !high-five @Naneynonn#0101
