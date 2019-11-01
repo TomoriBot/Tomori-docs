@@ -12,7 +12,7 @@ Economy module
 
 ``Cooldown``
 ~~~~~~~~~
-  12 hours|custom|.
+  12 hours |custom|.
 
 Example
 ~~~~~~~~~
@@ -26,7 +26,7 @@ Example
 
 ``Arguments``
 ~~~~~~~~~
-  amount: Optional[Union[`integer`, `all`]]
+  amount: Optional[Union[:class:`integer`, :class:`all`]]
 
 ``Returns``
 ~~~~~~~~~
