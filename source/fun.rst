@@ -1,5 +1,9 @@
+Fun module
+==============
+
+
 me
-=================
+-----------------
     Shows user's profile.
 
 Arguments
@@ -24,7 +28,7 @@ Example
 
 
 hug
-=================
+-----------------
     Hugs user.
 
 Arguments
@@ -45,7 +49,7 @@ Example
 
 
 highfive
-=================
+-----------------
     Highfives user.
 
 Arguments
