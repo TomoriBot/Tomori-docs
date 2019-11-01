@@ -6,7 +6,7 @@ me
 -----------------
     Shows user's profile.
 
-Arguments
+``Arguments``
 ~~~~~~~~~
   user: Union[:class:`Mention`, :class:`Name`, :class:`ID`]
 
