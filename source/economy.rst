@@ -20,6 +20,20 @@ Example
 
 
 
+**work**
+-----------------
+    Goes to a work.
+
+``Returns``
+~~~~~~~~~
+  50 |custom| |money| after 30 |custom| minutes.
+
+Example
+~~~~~~~~~
+  - !work
+
+
+
 **br**
 -----------------
     Play bet-roll.
@@ -42,3 +56,29 @@ Example
   - !br 1000
   - !bet-roll 
   - !bet-roll 373
+
+
+
+**cash**
+-----------------
+    Gets user's balance.
+
+``Arguments``
+~~~~~~~~~
+  user: Optional[Union[:class:`Mention`, :class:`Name`, :class:`ID`]]
+
+``Returns``
+~~~~~~~~~
+  User's balance.
+
+``Aliases``
+~~~~~~~~~
+  - $
+  - balance
+
+``Example``
+~~~~~~~~~
+  - !$
+  - !$ Naneynonn
+  - !cash @Naneynonn#0101
+  - !balance 496569904527441921
