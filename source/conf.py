@@ -32,14 +32,11 @@ release = '5.3.2'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-	'builder',
     'sphinx.ext.autodoc',
     'sphinx.ext.extlinks',
     'sphinx.ext.intersphinx',
     'sphinx.ext.napoleon',
-    'sphinxcontrib_trio',
-    'details',
-    'exception_hierarchy'
+    'sphinxcontrib_trio'
 ]
 
 master_doc = 'index'
