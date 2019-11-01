@@ -1,5 +1,3 @@
-.. currentmodule:: fun
-
 .. function::me
 
     Shows user's profile.
