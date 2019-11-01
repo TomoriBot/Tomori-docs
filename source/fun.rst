@@ -2,7 +2,7 @@ Fun module
 ==============
 
 
-me
+**me**
 -----------------
     Shows user's profile.
 
@@ -10,11 +10,11 @@ me
 ~~~~~~~~~
   user: Union[:class:`Mention`, :class:`Name`, :class:`ID`]
 
-Returns
+``Returns``
 ~~~~~~~~~
   An image with user's profile.
 
-Aliases
+``Aliases``
 ~~~~~~~~~
   - profile
 
@@ -27,19 +27,19 @@ Example
 
 
 
-hug
+**hug**
 -----------------
     Hugs user.
 
-Arguments
+``Arguments``
 ~~~~~~~~~
   user: Optional[Union[:class:`Mention`, :class:`Name`, :class:`ID`]]
 
-Returns
+``Returns``
 ~~~~~~~~~
   An embed message with hugs.
 
-Example
+``Example``
 ~~~~~~~~~
   - !hug
   - !hug Naneynonn
@@ -48,24 +48,24 @@ Example
 
 
 
-highfive
+**highfive**
 -----------------
     Highfives user.
 
-Arguments
+``Arguments``
 ~~~~~~~~~
   user: Optional[Union[:class:`Mention`, :class:`Name`, :class:`ID`]]
 
-Returns
+``Returns``
 ~~~~~~~~~
   An embed message with highfives.
 
-Aliases
+``Aliases``
 ~~~~~~~~~
   - five
   - high-five
 
-Example
+``Example``
 ~~~~~~~~~
   - !five
   - !highfive Naneynonn

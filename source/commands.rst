@@ -8,3 +8,4 @@ List of all Tomori's commands.
    :caption: Commands:
 
    fun
+   economy
