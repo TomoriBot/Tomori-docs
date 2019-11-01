@@ -7,5 +7,6 @@ List of all Tomori's commands.
    :maxdepth: 2
    :caption: Commands:
 
+   admin
    fun
    economy
