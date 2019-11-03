@@ -82,3 +82,30 @@ Example
   - !$ Naneynonn
   - !cash @Naneynonn#0101
   - !balance 496569904527441921
+
+
+
+**gift**
+-----------------
+    Get money from.. nothing.
+
+``Permissions``
+~~~~~~~~~
+  - :class:`Administrator` or :class:`Owner`
+
+``Arguments``
+~~~~~~~~~
+  amount: :class:`integer`
+
+``Returns``
+~~~~~~~~~
+  Updates user's balance with that amount of |money|.
+
+``Aliases``
+~~~~~~~~~
+  - pay
+
+``Example``
+~~~~~~~~~
+  - !gift 373
+  - !pay 373
