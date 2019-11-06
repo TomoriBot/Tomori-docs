@@ -10,3 +10,4 @@ List of all Tomori's commands.
    admin
    fun
    economy
+   set
