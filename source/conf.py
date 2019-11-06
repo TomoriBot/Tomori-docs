@@ -23,7 +23,7 @@ copyright = '2018-2019, Pineapple Cookie'
 author = 'Pineapple Cookie'
 
 # The full version, including alpha/beta/rc tags
-release = '5.3.2'
+release = '5.7.0'
 
 
 # -- General configuration ---------------------------------------------------
